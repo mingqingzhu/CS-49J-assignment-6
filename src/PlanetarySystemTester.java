@@ -1,3 +1,7 @@
+/**
+ * to test the functionality of PlanetarySystem class
+ * main included
+ */
 public class PlanetarySystemTester {
     public static void main(String[] args) {
         Star sun = new Star(2000000, "sun");
