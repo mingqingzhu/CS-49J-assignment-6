@@ -27,9 +27,13 @@ public class Star extends AstronomicalBody{
      */
     @Override
     public boolean equals(Object obj) {
-        Star other = (Star) obj;
-        if(this.mass == other.mass && this.name.equals(other.name)) {
-            return true;
+        if(obj instanceof Star) {
+            Star other = (Star) obj;
+            if(this.mass == other.mass && this.name.equals(other.name)) {
+                return true;
+            } else {
+                return false;
+            }
         } else {
             return false;
         }

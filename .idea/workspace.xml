@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77e696b6-f053-438b-ad53-185f4ae4f7b7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/CS-49J-assignment-6/Asteroid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS-49J-assignment-6/Asteroid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS-49J-assignment-6/AstronomicalBody.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS-49J-assignment-6/AstronomicalBody.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS-49J-assignment-6/Planet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS-49J-assignment-6/Planet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS-49J-assignment-6/PlanetarySystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS-49J-assignment-6/PlanetarySystem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS-49J-assignment-6/PlanetarySystemTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS-49J-assignment-6/PlanetarySystemTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS-49J-assignment-6/Star.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS-49J-assignment-6/Star.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Asteroid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Asteroid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AstronomicalBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AstronomicalBody.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Planet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PlanetarySystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PlanetarySystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PlanetarySystemTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PlanetarySystemTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Star.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Star.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Asteroid.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -33,11 +23,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/PlanetarySystemTester.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Planet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AstronomicalBody.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Star.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+              <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PlanetarySystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="795">
+              <caret line="53" column="29" lean-forward="true" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PlanetarySystemTester.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="4" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="6" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -46,6 +72,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Star.java" />
+        <option value="$PROJECT_DIR$/src/PlanetarySystem.java" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
@@ -122,7 +156,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -151,17 +185,45 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Asteroid.java">
+    <entry file="file://$PROJECT_DIR$/src/PlanetarySystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" column="29" lean-forward="true" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PlanetarySystemTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Star.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Planet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PlanetarySystemTester.java">
+    <entry file="file://$PROJECT_DIR$/src/AstronomicalBody.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Asteroid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>

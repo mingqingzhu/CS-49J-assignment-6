@@ -46,9 +46,13 @@ public class PlanetarySystem extends ArrayList<AstronomicalBody> {
      */
     @Override
     public boolean equals(Object o) {
-        PlanetarySystem other = (PlanetarySystem) o;
-        if((this.star.equals(other.star)) && (this.getTotalMass() == other.getTotalMass()) && (this.size() == other.size())) {
-            return true;
+        if (o instanceof PlanetarySystem) {
+            PlanetarySystem other = (PlanetarySystem) o;
+            if((this.star.equals(other.star)) && (this.getTotalMass() == other.getTotalMass()) && (this.size() == other.size())) {
+                return true;
+            } else {
+                return false;
+            }
         } else {
             return false;
         }
